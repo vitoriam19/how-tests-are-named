@@ -1,0 +1,1 @@
+['Get', 'Parse', 'Chunk', 'Next', 'Delimiter', 'Unix', 'Parse', 'Next', 'Runes', 'Next', 'Truncate', 'Quote', 'Windows', 'Power']

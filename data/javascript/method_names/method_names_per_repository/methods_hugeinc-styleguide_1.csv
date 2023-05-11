@@ -1,0 +1,65 @@
+[StyleguideIndex] method sidebarResizeHandler should be a function
+[Structure Modules] Utils wasBaseDataFile should return true if path contain a styleguide folder and _data.json file
+[Structure Dependencies] Child process exec should be a function
+[Structure Modules] Utils wasDirectory should return false if the parameter "removed" is true and path is not a real folder
+[Dependencies] Livereload should be an object
+[Dependencies] Child process exec should be a function
+[Dependencies] File System module should be an object
+[Structure Modules] Utils basePath should be a string
+[Structure Modules] Utils getFilename should return false if no parameter is given
+[StyleguideIndex] method resizeContent should be a function
+[Structure Modules] Utils wasDirectory should be a function
+[Structure Modules] Utils wasJavascriptOfModule should return false if no parameter is given
+[StyleguideIframe] method codeSnippetsToggle should be a function
+[Structure Modules] WriteToStylesheet should be a function
+[StyleguideIframe] all css class properties should be strings
+[Structure Dependencies] Path utility should be an object
+[Structure Modules] Utils wasBaseDataFile should return false if path does not contain a styleguide folder
+[Dependencies] Watch utility should be an object
+[Structure Modules] Utils wasDirectory should return true if the parameter "removed" is true and path follows the module folder pattern (N_name)
+[Structure Modules] Utils wasDirectory should return false if the parameter "removed" is true and path does not follows the module folder pattern (N_name)
+[StyleguideIframe] method sidebarLinksHighlight should be a function
+[Structure Modules] Utils wasDirectory should return true if the parameter "removed" is true and path is of a file
+[StyleguideIframe] method codeSnippetsSetup should be a function
+[StyleguideIndex] should be an object
+[Structure Modules] Utils wasJavascriptOfModule should be a function
+[Structure Modules] Utils wasJavascriptOfModule should return false if a file other than *.js is given
+[Structure Modules] Utils wasJavascriptOfModule should return false if a *.js file not in a module folder is given
+[StyleguideIframe] method sidebarLinksHighlightSetup should be a function
+[Structure Modules] Utils wasDataOfModule should return false if no parameter is given
+[StyleguideIframe] property activeModule should be null
+[Structure Dependencies] Livereload should be an object
+[Structure Modules] Livereloader should have an start function
+[StyleguideIframe] property modulesOffsetTop should be an array
+[StyleguideIframe] all $ properties exist
+[Structure Dependencies] Watch utility should be an object
+[Dependencies] Path utility should be an object
+[StyleguideIndex] method sidebarSetup should be a function
+[Structure Modules] Utils wasDirectory should return false if no parameter is given
+[Structure Modules] Utils wasJavascriptOfModule should return true if a *.js file within a module folder is given
+[StyleguideIndex] method setActiveSidebarLinkOnClick should be a function
+[Structure Modules] Livereloader should be an object
+[Structure Modules] Utils wasDataOfModule should return false if a file other than _data.json is given
+[Structure Modules] Utils wasDirectory should return true if the parameter "removed" is false and path is of a real folder
+[Structure Modules] Utils wasBaseDataFile should be a function
+[Structure Modules] Utils getFilename should return the file name when path is given
+[StyleguideIframe] method events should be a function
+[Structure Modules] Utils getFilename should be a function
+[Structure Modules] WriteToJavascript should be a function
+[StyleguideIndex] all css class properties should be strings
+[StyleguideIndex] method navigateToAnchor should be a function
+[Structure Modules] Utils wasDataOfModule should return true if a _data.json file within a module folder is given
+[Structure Modules] Utils wasDirectory should return false if not all parameters are given (first)
+[Structure Modules] Utils wasDirectory should return false if not all parameters are given (second and last)
+[Structure Modules] Utils wasBaseDataFile should return false if no parameter is given
+[Structure Modules] Utils wasDataOfModule should return false if a _data.json file not in a module folder is given
+[StyleguideIndex] method sidebarClose should be a function
+[Structure Dependencies] File System module should be an object
+[StyleguideIndex] method events should be a function
+[Structure Modules] Utils should be an object
+[StyleguideIframe] should be an object
+[StyleguideIndex] method checkHashOnLoad should be a function
+[Structure Modules] WriteDate should be a function
+[StyleguideIndex] method sidebarOpen should be a function
+[StyleguideIndex] all $ properties exist
+[Structure Modules] Utils wasDataOfModule should be a function

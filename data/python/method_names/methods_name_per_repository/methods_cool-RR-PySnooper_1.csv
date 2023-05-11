@@ -1,0 +1,7 @@
+test_exception():
+test_invalid_zipfile():
+test_exception_on_entry():
+test_ansible_filename_pattern():
+test_output_capturer_doesnt_swallow_exceptions():
+test_valid_zipfile():
+test_valid_damaged_zipfile():

@@ -1,0 +1,5 @@
+TestLogger_SetBufferPool(t
+TestEntryPanic(t
+TestAddHookRace2(t
+TestEntryFormatterRace(t
+Test()

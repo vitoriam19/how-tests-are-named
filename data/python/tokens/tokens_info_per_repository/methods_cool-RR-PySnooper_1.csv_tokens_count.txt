@@ -1,0 +1,1 @@
+{'test': 7, 'zip': 3, 'file': 3, 'exception': 2, 'valid': 2, 'invalid': 1, 'on': 1, 'entry': 1, 'ansible': 1, 'filename': 1, 'pattern': 1, 'output': 1, 'capturer': 1, 'doesnt': 1, 'swallow': 1, 'exceptions': 1, 'damaged': 1}

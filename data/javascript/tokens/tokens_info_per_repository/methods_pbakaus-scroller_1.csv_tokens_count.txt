@@ -1,0 +1,1 @@
+{'+': 15, 'Scrolling': 12, 'Zooming': 10, 'Scroll': 9, 'via': 9, 'Zoom': 9, 'API': 6, 'Events': 3, 'Initialization': 2, 'By': 2, 'Snapping': 1, 'Basic': 1, 'Limits': 1, 'Wheel': 1, 'Query': 1, 'values': 1, 'Axis': 1, 'Limited': 1, 'Touch': 1, 'Out': 1, 'Of': 1, 'Boundaries': 1, 'Setting': 1, 'up': 1, 'dimensions': 1, 'Paging': 1}

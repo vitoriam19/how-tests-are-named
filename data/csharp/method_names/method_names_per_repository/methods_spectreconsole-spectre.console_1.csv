@@ -1,0 +1,7 @@
+test2[n]}).join(""))return!1;var
+test.ExpectedDiagnostics.AddRange(expected);
+tests](#unit-tests)
+test(_registrarFactory());
+test.RunAsync();
+test2={},i=0;i<10;i++)test2["_"+String.fromCharCode(i)]=i;if("0123456789"!==Object.getOwnPropertyNames(test2).map(function(n){return
+test3={};return"abcdefghijklmnopqrst".split("").forEach(function(letter){test3[letter]=letter}),"abcdefghijklmnopqrst"===Object.keys(Object.assign({},test3)).join("")}catch(err){return!1}}()?Object.assign:function(target,source){for(var

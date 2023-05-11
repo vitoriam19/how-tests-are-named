@@ -1,0 +1,12 @@
+MultipartUploadShouldWorkWithFileInfo()
+MultipartUploadShouldWorkWithString()
+MultipartUploadShouldWork()
+GetTestFileStream("Test
+MultipartUploadShouldWorkWithStream()
+ParameterizedQueryParamsShouldBeInUrlAndValuesEncoded()
+QueryParamWithPathDelimiterShouldBeEncoded()
+ParameterizedQueryParamsShouldBeInUrlAndValuesEncodedWhenMixedReplacementAndQueryBadId()
+MultipartTests.GetTestFileStream("Test
+testHttpMessageHandler.RequestMessage.RequestUri.ToString());
+MultipartUploadShouldWorkWithByteArray()
+ParameterizedQueryParamsShouldBeInUrlAndValuesEncodedWhenMixedReplacementAndQuery()

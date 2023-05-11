@@ -1,0 +1,1 @@
+['test', 'exception', 'test', 'invalid', 'zip', 'file', 'test', 'exception', 'on', 'entry', 'test', 'ansible', 'filename', 'pattern', 'test', 'output', 'capturer', 'doesnt', 'swallow', 'exceptions', 'test', 'valid', 'zip', 'file', 'test', 'valid', 'damaged', 'zip', 'file']

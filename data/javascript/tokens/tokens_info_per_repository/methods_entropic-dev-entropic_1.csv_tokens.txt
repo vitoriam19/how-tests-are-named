@@ -1,0 +1,1 @@
+['who', 'ami', 'calls', 'error', 'when', 'not', 'successful', 'bad', 'command', 'name', 'dumps', 'help', 'when', 'you', 'ask', 'who', 'ami', 'you', 'get', 'who', 'ami', 'when', 'you', 'ask', 'for', 'help', 'you', 'get', 'help', 'empty', 'argv', 'dumps', 'help', 'who', 'ami', 'calls', 'console', 'log', 'with', 'username', 'when', 'API', 'response', 'is', 'successful']

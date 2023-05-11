@@ -1,0 +1,6 @@
+should call onChange callback
+should render custom footerContent
+should render correctly
+should hide indicators
+should call onPress callback
+should render disabled

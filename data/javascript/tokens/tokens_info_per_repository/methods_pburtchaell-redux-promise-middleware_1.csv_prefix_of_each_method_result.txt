@@ -1,0 +1,1 @@
+['pending', 'errors', 'module', 'pending', 'module', 'module', 'actions', 'pending', 'fulfilled', 'pending', 'pending', 'pending', 'pending', 'promise', 'errors', 'module', 'action', 'rejected', 'pending', 'rejected', 'dispatches', 'rejected', 'pending', 'module', 'module', 'actions', 'module', 'actions', 'pending', 'actions', 'original']

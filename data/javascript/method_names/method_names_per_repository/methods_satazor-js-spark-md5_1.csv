@@ -1,0 +1,13 @@
+Hash of 128 bytes
+Hash of 64 bytes
+Incremental usage (array buffer + resume with JSON.stringify)
+Hash of "hello" (raw)
+Hash of 160 bytes
+Hash of "hello"
+Incremental usage (resume with JSON.stringify)
+Hashing a PNG - ArrayBuffer vs binary string
+UTF-8
+Incremental usage (resume)
+Incremental usage
+Incremental usage (rolling)
+Hash of 'hello'

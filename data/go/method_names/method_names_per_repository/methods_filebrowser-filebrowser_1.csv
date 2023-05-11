@@ -1,0 +1,9 @@
+TestCommonPrefix(t
+TestService_Resize(t
+TestFileCache(t
+TestParseWindowsCommand(t
+TestMatchHidden(t
+TestParseUnixCommand(t
+TestPublicShareHandlerAuthentication(t
+TestSplitCommandAndArgs(t
+TestService_FormatFromExtension(t

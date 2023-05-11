@@ -1,0 +1,638 @@
+markup structure
+radio groups
+{ scrollSensitivity: 2 }
+active:false
+aspectRatio: 'preserve' (n)
+{ accept: function(draggable) }
+mouseWheel
+{ cursorAt: '20, 40' }
+create
+#4980: Destroy should place element back in original DOM position
+#5830 - Widget: Using inheritance overwrites the base classes options
+{ animated: String }
+beforeShowDay-getDate
+page
+Events should not be executed on the element if drag is initiated
+numberformat, number
+{ revert: false }, default
+data
+containment, default, switching after initialization
+tooltipClass, custom
+text false without icon
+refresh - disabled option
+handle click on custom item menu
+No options, absolute
+ui-resizable-nw { aspectRatio: 'preserve', handles: 'all', minWidth: 70, minHeight: 50, maxWidth: 150, maxHeight: 130 }
+moveToTop
+{ heightStyle: 'content' }
+collision: flip, with offset
+#5946 - buttonset should ignore buttons that are not :visible
+{ opacity: 0.5 }
+re-attach
+{ placeholder: String }
+enable and disable
+{ helper: 'original' }, relative, with scroll offset on root and parent
+{ scrollSpeed: 200 }
+over
+{ distance: 10 }
+refresh
+events
+focus events
+re-init
+direct usage
+spin
+value, override
+{ animated: false }, default
+{ axis: false }, default
+noWeekends
+deselectable (deprecated)
+groupSeparator - space separator
+{ helper: Function }
+{ helper: 'original' }, fixed, with scroll offset on root and parent
+close
+tabbable - tabindex
+programmatic triggers
+aspectRatio: 'preserve' (ne)
+grid
+ui-resizable-se { handles: 'all', grid: [0, 20] }
+mouse events
+{ cancel: 'span' }
+{ helper: 'clone' }, absolute with scroll offset on root and parent
+formatDate
+activeClass
+currency formats
+{ dropOnEmpty: false }
+drop
+numberFormat, number, simple
+callbacks occurance count
+disable
+click-through
+buttonset (rtl)
+zIndex, applied to all handles
+#2715 - id containing colon
+ui-resizable-se { handles: 'all', grid: [0, 20] } wrapped
+tabbable - hidden styles
+baseStructure
+ajaxOptions
+tabbable -  natively tabbable with various tabindex
+#3627 - Ajax tab with url containing a fragment identifier fails to load
+event
+value, override markup
+{ cancel: Selectors }, matching parent selector
+{ cursorAt: [10, 20] }
+draggable
+grid (wrapped)
+{ helper: 'original' }, absolute, with scroll offset on parent
+{ appendTo: 'parent' }, default, no clone
+incremental - true (default)
+{ icons: { activeHeader : 'test' } }
+ui-resizable-n { aspectRatio: 'preserve', handles: 'all', minWidth: 70, minHeight: 50, maxWidth: 150, maxHeight: 130 }
+sw
+collision: none, with offset
+{ helper: 'original' }, absolute, with scroll offset on root
+tolerance, pointer
+{ handle: 'span' }
+miscellaneous
+moveTo, absolute value
+activate
+currency - period as group separator and comma as radixPoint
+beforeShowDay - tooltips with quotes
+currency - single character currency symbol
+#6137: dialog('open') causes form elements to reset on IE7
+spin without auto-incremental stepping
+rotate
+pageUp
+items class and role
+initialization - Reinitialization after body had been emptied.
+minWidth
+{ appendTo: Element }, no clone
+resizeStop
+keydown RIGHT on input has no effect
+ui-resizable-w { aspectRatio: 'preserve', handles: 'all', minWidth: 70, minHeight: 50, maxWidth: 150, maxHeight: 130 }
+{ helper: 'clone' }, absolute
+{ opacity: 1 }
+collision: none, no offset
+destroy and recreate
+ui-resizable-w resize x
+position
+title id
+{ heightStyle: 'auto' }, default
+w
+spin with auto-incremental stepping
+aspectRatio: 'preserve' (s)
+ui-resizable-ne resize xy
+{ zIndex: 1000 }, default
+aspectRatio: 'preserve' (w)
+#4033 - IE expands hash to full url and misinterprets tab as ajax
+scope
+{ placeholder: false }, default
+widget method
+accessibility
+out
+change headerSelected option after creation
+{ helper: 'original' }, relative, with scroll offset on root
+enable
+resizable
+{ helper: 'clone' }, absolute with scroll offset on root
+resize (containment)
+remove
+keydown PGUP on input, increases value not greater than max
+tabbable -  not natively tabbable with various tabindex
+{ helper: 'original' }, relative, with scroll offset on parent
+tabbable - invalid tabindex
+close-on-blur is cancelled when starting a search
+{ navigationFilter: Function }, default
+{ header: jQuery Object }
+collision: fit, no offset
+ui-resizable-s resize y
+{ icons: { 'header': 'ui-icon-foo', 'headerSelected': 'ui-icon-bar' } }
+groupSeparator - apos separator
+{ handle: Element }
+{ containment: 'parent' }, relative
+focusable -  natively tabbable with various tabindex
+ui-resizable-nw { handles: 'all', minWidth: 60, minHeight: 60, maxWidth: 100, maxHeight: 100 }
+{ cursorAt: false}, default
+ui-resizable-n resize y
+reading HTML5 attributes
+moveTo, relative positive value, above max
+receive
+cache: default
+numberformat, number, simple
+overlay
+beforeStop
+fx
+widget
+{ delay: 0 }, default
+disabled on init
+{ appendTo: Selector }
+{ grid: [3, 7] }
+{ helper: 'clone' }, relative
+collision: fit, with margin
+accept, fn
+{ cursorAt: false }, default
+search
+ensure dialog keeps focus when clicking modal overlay
+activate, jQuery or DOM element
+create and destroy
+beforeClose
+keydown on input with options
+multiple elements
+{ grid: [17, 3] }
+keydown HOME on handle sets value to min
+autoSize
+id containing colon
+{ tolerance: 'intersect' }, default
+{ distance: 1 }, default
+label with input type submit
+{ addClasses: false }
+focusable - invalid tabindex
+drag
+handle creation
+testname
+{ heightStyle: 'fill' }
+{ event: 'click' }, default
+stopping the drag callback
+activate, boolean, collapsible:false
+{ autoHeight: true }, default
+position, default center on window
+{ zIndex: 1 }
+tolerance, fit
+Empty Unit
+incremental - true
+label, default
+ui-resizable-sw resize xy
+buttons - auto (focus)
+spinner
+focusable - not natively focusable with various tabindex
+handle keyboard navigation on menu without scroll and without submenus
+tolerance, touch
+currency - apos as group separator
+ui-resizable-se { handles: 'all', gird: [20, 20] }
+keydown LEFT on handle decreases value by step, not less than min
+Ensure form elements don't reset when opening a dialog
+tabbable - enabled elements
+{ dropOnEmpty: true }, default
+{ addClasses: true }, default
+enable / disable
+stop
+beforeActivate
+Tabbable - invalid tabindex
+show
+{ containment: [x1, y1, x2, y2] }
+select: null
+focusable -  not natively tabbable with various tabindex
+title
+selected: null
+resize
+{ scroll: true }, default
+#6966: Escape key closes all dialogs, not the top one
+No options, relative
+cache: false
+{ cursorAt: true }
+Tabbable -  natively tabbable with various tabindex
+step, 0.7
+aria
+buttonset works with single-quote named elements (#7505)
+stopping the stop callback
+{ role: 'listbox' } 
+ui-resizable-se { handles: 'all', grid: [20, 20] }
+mouse
+{ cancel: Selector }
+focusable - visible, enabled elements
+icons
+basics
+buttons - hide
+{ fillSpace: false }, default
+animate
+grid (min/max dimensions)
+ajax
+{ accept: Selector }
+aspectRatio: 'preserve' (sw)
+stack
+#4752: link event firing on sortable with connect list
+#2965 cursorAt with margin
+source, local object array, only label property
+{ appendTo: 'parent' }, default
+{ tolerance: 'pointer' }
+selected
+Tabbable -  not natively tabbable with various tabindex
+focusable - area elements
+autoheight
+{ opacity: false }, default
+change one step via keydown
+ui-resizable-e { aspectRatio: 'preserve', handles: 'all', minWidth: 70, minHeight: 50, maxWidth: 150, maxHeight: 130 }
+{ containment: Selector }
+navigation markup
+element types
+customStructure
+{ value : 0 }, default
+decimal options
+cookie
+Tabbable - disabled elements
+{ connectToSortable: selector }, default
+grid, switching after initialization
+#6710 - selectors are global
+padding
+#XXXX title
+#4055: onclick events contain references to "jQuery"
+ui-resizable-se { handles: 'all', minWidth: 60, minHeight: 60, maxWidth: 100, maxHeight: 100 }
+{ helper: 'original' }, fixed, with scroll offset on parent
+resize (min/max dimensions)
+offsets
+zIndex
+aspectRatio: 'preserve' (se)
+options update min/max
+Ticket 6827: formatDate day of year calculation is wrong during day lights savings time
+widget factory, merge multiple option arguments
+activate, boolean, alwaysOpen:true
+{ grid: [50, 50] }, absolute
+active
+tabTemplate
+using
+moveTo, relative positive value
+{ active: Element }
+focusable - disabled elements
+callbacks
+merge multiple option arguments
+numberformat, currency
+toggle
+{ scroll: false }
+by
+beforeload
+all events - contenteditable
+ui-resizable-nw resize xy
+refresh - disabled select
+focus
+tooltipClass, default
+{ forceHelperSize: false }, default
+activate, boolean and numeric, alwaysOpen:false
+option
+label
+#5531: dialog width should be at least minWidth on creation
+dragStop
+focusable -  natively focusable with various tabindex
+Tabbable - hidden styles
+pageDown
+cursor, default, switching after initialization
+min
+input type submit, don't create child elements
+maxHeight
+ui-resizable-sw { aspectRatio: 'preserve', handles: 'all', minWidth: 70, minHeight: 50, maxWidth: 150, maxHeight: 130 }
+{ scrollSpeed: 2 }
+cache: {limit:4}
+disabled, null
+change without selection
+refresh - change selected option
+{ navigation: true, navigationFilter: header }
+source, url string with remote json object array, only label properties
+autoResize
+change
+altField
+{ header: Selector }
+unselect: true
+slide
+source, local object array, only value property
+{ containment: 'window' }
+minLength
+destroy
+update
+position, offset from top left w/array
+#???? - panel containing inline style
+{ cancel: ? }, unexpected
+keystrokes
+stopping the start callback
+{ active: Number }
+{ active: jQuery Object }
+{ containment: 'parent' }, absolute
+spinnerClass
+{ cancel: 'input,textarea,button,select,option' }, default
+width
+{ handle: Selectors }, matching parent selector
+sort
+#5893 - Sublist in the tab list are considered as tab
+start
+resizable accounts for scroll position correctly (#3815)
+buttons - show (default)
+cancel focus
+length
+collapsible
+defaults
+{ fillSpace: true } with multiple siblings
+hoverClass
+{ active: true }
+activate, numeric
+precision
+{ scrollSensitivity: 20 }, default
+iso8601Week
+parseDateErrors
+currency - combined character currency symbol
+blur without selection
+status
+init with hash
+text false with icon
+#5069 - ui.tabs.add creates two tab panels when using a full URL
+panelTemplate
+handle keyboard navigation with spelling of menu items
+callback
+mouse click on buttons
+url
+setDefaults
+appendTo, default, switching after initialization
+value, default, nothing specified
+max
+focusable -  not natively focusable with various tabindex
+hold SHIFT and keydown DOWN, decreases value but no less than min
+init mismatched order with hash
+helper, default, switching after initialization
+beforeclose
+.widget() - overriden
+ranges
+position, top on window
+source, custom
+{ helper: 'original' }, absolute, with scroll offset on root and parent
+content: default
+offset
+numberFormat, number
+ui-resizable-e resize x
+{ navigation: true, navigationFilter: content }
+core
+{ navigation: false }, default
+dir - left-to-right (default)
+keydown DOWN on input, decreases value not less than min
+{ active: false }
+ui-resizable-sw { handles: 'all', minWidth: 60, minHeight: 60, maxWidth: 100, maxHeight: 100 }
+source, local string array
+n
+accordionchange event, open closed and close again
+orientation
+keydown PAGE_DOWN on handle decreases value by 1/5 range, not less than min
+buttonset
+se
+{ axis: 'y' }
+{ handle: Selector }
+zIndex, default, switching after initialization
+collision: flip, with margin
+parseDate
+{ handle: false }, default
+range
+{ grid: [50, 50] }, relative
+keydown UP on handle increases value by step, not greater than max
+aspectRatio: 'preserve' (e)
+positions
+appendTo another element
+values
+ui-resizable-ne { handles: 'all', minWidth: 60, minHeight: 60, maxWidth: 100, maxHeight: 100 }
+closeText
+numberformat
+buttons - auto (hover)
+minHeight
+collision: fit, with offset
+{ active: first child }, default
+filter
+attr - aria
+value, override later
+minMax
+{ max : 5, value : 10 }
+change +10 steps via keydown
+{ revert: true }
+{ icons: false }
+cancel select
+Ticket #7244: date parser does not fail when too many numbers are passed into the date function
+step
+tabbable - area elements
+widget creation
+daylightSaving
+{ scrollSpeed: 20 }, default
+#5184: isOpen in dialogclose event is true
+incremental - false (default)
+cssNamespace
+keydown LEFT on input has no effect
+handle click on header-descendant
+ui-resizable-s { aspectRatio: 'preserve', handles: 'all', minWidth: 70, minHeight: 50, maxWidth: 150, maxHeight: 130 }
+add
+selected property
+buttons
+disabled
+label default with input type submit
+enableDisable
+currency and decimal options
+{ containment: Element }
+handle click on menu
+{ value : -5 }
+all events
+tabbable - visible, enabled elements
+{ autoHeight: false }
+checkbox
+radix
+focusable - natively focusable with various tabindex
+{ role: 'menu' } 
+moveTo, absolute value, below min
+{ axis: ? }, unexpected
+groupSeparator - comma separator (default)
+tolerance, intersect
+moveTo, relative negative value
+modal
+source, update after init
+pop-up: CSS styles
+{ opacity: .37 }
+resizeStart
+e
+{ containment: false }, default
+init
+focusable - hidden styles
+CSS styles
+{ helper: 'original' }, fixed, with scroll offset on root
+ARIA attributes
+axis, default, switching after initialization
+set defaults on init
+stepUp
+ui-resizable-se resize xy
+disabled, explicity value
+{ accurateIntersection: true }, default
+{ containment: 'parent' }
+radios
+Ticket 7602: Stop datepicker from appearing with beforeShow event handler
+keydown UP on input, increases value not greater than max
+{ collapsible: true }
+{ connectWith: Selector }
+moveTo, absolute value as string
+keydown PGDN on input, decreases value not less than min
+keydown END on input, sets value to maximum
+hold SHIFT and keydown UP, increments value but no greater than max
+callbacks occurrence count
+jQuery usage
+handle with complex markup (#8756)
+autoHeight
+currency - space as group separator
+close-on-blur is properly delayed
+position, at another element
+nw
+keydown END on handle sets value to max
+ui-accordion-heading class added to headers anchor
+activate, string expression
+#6645: Missing element not found check in overlay
+highlighter
+keydown DOWN on handle decreases value by step, not less than min
+#9043: buttons with Array.prototype modification
+{ fillSpace: true } with sibling
+resize (grid)
+{ zIndex: false }
+ARIA
+{ header: '> li > :first-child,> :not(li):even' }, default
+keydown HOME on input, sets value to minimum
+change - 10 steps via keydown
+activate, boolean and numeric, collapsible:true
+maxWidth
+dir - right-to-left
+position, right bottom at right bottom via ui.position args
+{ helper: 'original' }, default
+{ fillSpace: true }
+source, url string with remote json object array, only value properties
+my, at, of
+load
+dragStart
+{ cancel: ':input,option' }, default
+setDate
+{ clearStyle: true }
+value
+dropdown: CSS styles
+keydown PAGE_UP on handle increases value by 1/5 range, not greater than max
+{ appendTo: Selector }, no clone
+of
+cancel, default, switching after initialization
+otherMonths
+mouse wheel on input
+{ axis: 'x' }
+localisation
+keydown RIGHT on handle increases value by step, not greater than max
+position, others
+.widget() - base
+{ appendTo: Element }
+refresh - structure
+content: return jQuery
+numberFormat, currency
+closeOnEscape
+dialogClass
+{ cursor: 'auto' }, default
+{ cancel: ':input,button' }, default
+{ event: 'mouseover' }
+#1234
+{ grid: false }, default
+value, default, specified in markup
+accept, selector
+position, right bottom on window w/array
+autoRefresh
+greedy
+option: items
+content: callback string
+{ appendTo: jQuery }
+{ value : 105 }
+delay
+content: return string
+{ animated: true }
+focus - original functionality
+disabled, explicit value
+{ icons: { 'header': 'ui-icon-triangle-1-e', 'headerSelected': 'ui-icon-triangle-1-s' } }, default
+handle, default, switching after initialization
+idPrefix
+cancel search
+{ zIndex: 10 }
+position, left on window
+option setting
+{ forcePlaceholderSize: false }, default
+ui-resizable-ne { aspectRatio: 'preserve', handles: 'all', minWidth: 70, minHeight: 50, maxWidth: 150, maxHeight: 130 }
+{ collapsible: false }, default
+#3019: Stop fires too early
+source, url string with remote json string array
+height
+{ clearStyle: false }, default
+radixPoint
+ui-resizable-se { aspectRatio: 'preserve', handles: 'all', minWidth: 70, minHeight: 50, maxWidth: 150, maxHeight: 130 }
+collision: flip, no offset
+opacity, default, switching after initialization
+deactivate
+handle keyboard navigation on menu with scroll and without submenus
+{ items: Selector }
+buttons - advanced
+{ value : 5 }
+refresh - disabled optgroup
+activate, boolean, collapsible: false
+{ cursor: 'move' }
+isOpen
+tabbable - disabled elements
+{ scope: 'default' }, default
+position, right bottom on window
+id containing colon #???
+open
+step, 2
+{ containment: 'document' }
+invocation
+{ scope: ??? }, unexpected
+{ forcePlaceholderSize: true }
+select
+autoOpen
+s
+defaultDate
+ne
+cleanup
+{ accurateIntersection: false }
+{ connectWith: false }, default
+{ forceHelperSize: true }
+resizable handle with complex markup (#8756 / #8757)
+{ helper: 'clone' }
+cache
+offset - deprecated
+{ items: '> *' }, default
+{ helper: 'clone' }, absolute with scroll offset on parent
+{ scrollSensitivity: 200 }
+ui-resizable-se { handles: 'all', gird: [0, 20] }
+{ active: Selector }
+{ cursorAt: { right: 10, bottom: 20 } }
+{ delay: 100 }
+{ cursorAt: { left: -5, top: -5 } }
+#4826: setting resizable false toggles resizable on dialog
+stepDown
+{ grid: [50,50] }
+{ navigation: true }
+{ accept '*' }, default 
+keydown on input

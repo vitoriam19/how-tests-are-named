@@ -1,0 +1,5 @@
+testCases.Add(new
+testMethod.Method.GetCustomAttributes(typeof(DataAttribute));
+testRunner.RunAsync());
+testCases.AddRange(collection);
+InvalidOperationException($"Test

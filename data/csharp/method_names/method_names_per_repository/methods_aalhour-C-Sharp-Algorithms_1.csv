@@ -1,0 +1,8 @@
+[Category("ManyAsserts")]
+testGraph.RemoveEdge(new
+testGraph.Neighbours(new
+testGraph.OutgoingEdges(new
+testNumbers.GetLength(0);
+testGraph.GetConnectedComponent(new
+testGraph.getConnectedComponent(new
+testGraph.buildDualGraph();

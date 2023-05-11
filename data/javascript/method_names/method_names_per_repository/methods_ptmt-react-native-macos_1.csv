@@ -1,0 +1,44 @@
+fails if the child process emits an error
+contains the number of modules in the module table
+handles when a responder is unmounted while a touch sequence is in progress
+throws when adding a mapping after ending a file
+renders correctly
+can add a mapping with corresponding location in the original source
+handles events without target
+ignores `/debuggerWorker.js` stack frames
+resolves to the `result` property of the message returned over the socket
+adds file name and source code when starting a file
+can append values that fit within 5 bits (including sign bit)
+ignores stack frames without corresponding map
+can append values that fit within 32 bits (including sign bit)
+fails if the socket connection emits an error
+has the length correct of the startup section
+handles events
+can add a mapping with source location and symbol name
+symbolicates stack frames
+creates a source map
+adds a comma when starting a segment after another segment
+can append values that fit within 15 bits (including sign bit)
+adds a comma when starting a segment after calling `markLines(0)`
+can handle multiple operations
+throws when adding a mapping without starting a file
+can create an empty string
+can append values that fit within 25 bits (including sign bit)
+can add a mapping for generated code without corresponding original source
+renders assets based on relative path
+sends a socket path to the child process
+contains the code after the offset table
+can mark a new line in the generated code
+can append values that fit within 30 bits (including sign bit)
+rejects with the `error` property of the message returned over the socket
+can mark zero new lines in the generated code
+does not add commas when just starting a segment
+sends the passed in stack and maps over the socket
+rejects if the socket response cannot be parsed as JSON
+starts the bundle file with the magic number
+can append values that fit within 20 bits (including sign bit)
+can mark multiple new lines in the generated code
+exposes a fluent interface
+can append values that fit within 10 bits (including sign bit)
+does not add a comma when starting a segment after marking a line
+handles events on text nodes

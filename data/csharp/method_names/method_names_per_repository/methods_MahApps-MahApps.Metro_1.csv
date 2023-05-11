@@ -1,0 +1,3 @@
+(inputHitTest
+testTile.FindChild<AccessText>(string.Empty).FontSize);
+testTile.FindChild<TextBlock>(string.Empty).FontSize);

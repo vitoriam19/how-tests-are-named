@@ -1,0 +1,167 @@
+YEAR -> WEEK
+Don't allow not valid data type
+Week start on Sunday
+Positive and negative custom legend
+get domain when domain is WEEK
+afterLoadPreviousDomain
+get subdomain when subdomain is MIN
+get domain when domain is 1 DAY
+Data Source is a JSON object
+Don't paint Next and Previous link
+get domain when domain is 1 WEEK, from a sunday
+Not a number
+DAY -> MIN
+afterLoadData callback
+Passing a non-empty string
+Auto align domain label horizontally when rotated
+onComplete is not a valid callback : object
+Display empty calendar
+get domain when domain is > 1 HOUR
+get domain when domain is MONTH
+Allow only known subDomain
+Data Source is an object
+Invalid data (null) is ignore and treated as an empty object
+Data Source is an URI
+Data Source is a en empty string
+Set default domain and subDomain
+Removing existing legend
+Custom date formatting with custom function
+SubDomain must be smaller than domain
+onComplete does not run with paintOnLoad = false
+RowLimit is disabled when colLimit is set
+Allow only valid domain
+HOUR -> MIN
+get domain when domain is > 1 MONTH
+Return an empty string if a date is not in the highlight list
+itemSelector accept a valid Element object
+Grouping datas by day>hour
+Domain Margin can takes various format
+get domain when HOUR domain overlap next day
+Attach events to next and previous selector on default namespace
+Attach events to not-valid namespace fallback to default namespace
+get domain when domain is 1 WEEK, starting a monday
+get next domain
+get domain when domain is 1 WEEK, from a date in the middle of the week
+Paint Next and Previous link
+OnClick
+Auto align domain label horizontally
+get domain when HOUR domain overlap next month
+Data Source is invalid : number
+get domain when domain is 1 YEAR. from a timestamp
+Attach events to next and previous selector on custom namespace
+DAY -> HOUR
+get previous domain
+onClick is not a valid callback : string
+Grouping datas by hour>min
+Setting namespace
+get domain when domain is 1 X_DAY
+afterLoad is not a valid callback : object
+get domain when domain is HOUR
+get domain when domain is > 1 YEAR
+Empty string is treated as an empty object
+MONTH -> WEEK
+Data Source is a regular string
+WEEK -> HOUR
+Custom date formatting with d3.js internal formatter
+Invalid data (number) is ignore and treated as an empty object
+Filter out datas not relevant to calendar domain
+date is less than now in the domain hour, subdomain min
+afterLoad
+Data Source is an empty string
+Calling next when minDate is reached remove the minDomainReached state
+Data Source is a regex string, replace by ISO-8601 Date
+onComplete
+Positive legend
+Passing a function
+itemSelector target does not exist
+Passing directly an object
+Return the highlight classname if a date should be highlighted
+YEAR -> DAY
+itemSelector accept a valid document.querySelector or CSS3 string value
+Positive and negative custom scale
+Highlight consider 'now' string as now
+Invalid data (array) is ignore and treated as an empty object
+Don't display scale
+afterLoad is not a valid callback : null
+Fill subdomain only if there is data
+get subdomain when subdomain is MONTH
+get domain when domain is YEAR
+Don't fill subdomain if data equal to false
+Calling previous when maxDate is reached remove the maxDomainReached state
+Display domain according to range number
+Passing an empty string
+Cell label have different title formatting depending on whether it's filled or not
+Data Source is a string
+afterLoad is not a valid callback : string
+Basic default scale
+Destroying the calendar
+Test expanding NOW string
+Show already existing legend
+get domain when DAY domain overlap next year
+Object is left untouched
+get domain when domain is 1 YEAR
+Null value
+Empty value
+get domain when domain is 1 HOUR, from a timestamp
+afterLoadNextDomain
+Positive custom scale
+Float value custom scale
+Get end of month, from a date
+get domain when domain is 1 MONTH
+get domain when domain is > 1 WEEK
+date is less than now in the domain day, subdomain hour
+Now is equal to now
+Also return the qn styling class
+onClick is not a valid callback : object
+Append graph to the passed DOM ID
+WEEK -> MIN
+Data Source is an array
+get domain when domain is DAY
+Week start on Monday
+get domain when domain is 1 MONTH, from a timestamp
+Data Source is undefined
+Get the day of the year
+WEEK -> DAY
+afterLoadPreviousDomain is not a valid callback : string
+Set itemName from a string
+afterLoadNextDomain is not a valid callback : string
+get domain when domain WEEK overlap next year
+itemSelector does not accept invalid values
+get domain when domain is 1 HOUR
+get subdomain when subdomain is HOUR
+onComplete is ran even on loadOnInit = false
+Don't display legend
+Return the highlight and now classname if a date should be highlighted and is now
+Passed date is not equal to now
+afterLoadData is not a valid callback
+itemSelector target does not exists
+Get end of month, from a timestamp
+Allow only valid data type
+Test expanding NOW string inside an array of valid dates
+Cell radius is applied
+get domain when domain is 1 WEEK, from a timestamp
+Float value custom legend
+Set default subDomain according to domain
+get domain when domain is 1 DAY, from a timestamp
+get domain when domain is 1 WEEK, from a date right on beginning of the week
+get subdomain when subdomain is DAY
+MONTH -> DAY
+date is less than now in the domain month, subdomain day
+get domain when domain WEEK overlap next month
+onComplete is not a valid callback : string
+Return an empty string if the highlight list is empty
+Data Source is a regex string, replace by timestamp
+Show not existing legend
+Basic default legend
+Test expanding NOW string inside an array of invalid dates
+get domain when DAY domain overlap next month
+get domain when domain is 1 WEEK, starting a sunday
+Invalid value
+get domain when domain is > 1 DAY
+MONTH -> HOUR
+YEAR -> MONTH
+get domain when MONTH domain overlap next year
+Invalid data (undefined) is ignore and treated as an empty object
+Removing not existing legend
+Positive custom legend
+Attach events to next and previous selector

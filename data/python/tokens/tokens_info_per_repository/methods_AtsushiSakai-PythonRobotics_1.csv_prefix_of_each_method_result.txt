@@ -1,0 +1,1 @@
+['spiral', 'test', 'no', 'test', 'stuck', 'no', 'main', '2', '1', '2', 'planning', 'wavefront', 'angle', 'stuck', 'spiral', 'array', 'test', 'wavefront', 'main', 'position', '1', 'wavefront', 'polygon', '3', 'rot', 'spiral', 'spiral', '1', 'wavefront', '2', 'test', 'wavefront', 'list', 'test', 'path', 'degree', 'planning', 'no', 'spiral', 'wavefront', 'spiral', 'planning']

@@ -1,0 +1,1 @@
+{'Test': 7, 'Multi': 2, 'Search': 1, 'And': 1, 'Replace': 1, 'Simple': 1, 'Edit': 1, 'Attributes': 1, 'String': 1, 'To': 1, 'Style': 1, 'Main': 1, 'Settings': 1, 'Persistence': 1, 'Cursor': 1, 'Mouse': 1}
