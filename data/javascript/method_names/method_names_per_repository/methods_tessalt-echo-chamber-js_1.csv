@@ -1,0 +1,265 @@
+assert.ok
+long boolean
+assert -  use a RegExp to validate error message
+reset
+util.inspect -  exceptions should print the error message, not \
+dotted alias
+assert.strictEqual
+new buffer from array
+least recently set w/ peek
+flag boolean value
+empty strings
+write float
+utf8 to binary
+assert.deepEqual - object wrappers
+convert to base64 and back
+rebase
+drop the old items
+base64 buffer to ascii
+new buffer from Int32Array
+sync
+newlines in params
+replace orphaned utf16 surrogate lead code point
+invoke console.warn
+resolving of name, full and relative paths
+replace orphaned utf16 surrogate trail code point
+dotted default with no alias
+multi
+buffer.copy
+nodeEmpty
+\nintegrated
+\nreading root specifying maximum depth
+seeded
+randomBytes seem random
+new buffer from Uint8Array
+date
+\nprogress callbacks
+root
+short and long
+long opts
+numeric short args
+convert to Uint8Array in modern browsers
+base64 buffer to utf8
+buffer.writeUInt8 a fractional number will get Math.floored
+string and alias
+\nreading root with symlinks using lstat
+decode url-safe style base64 strings
+\napi separately
+long captures eq
+countPass
+\nreading non-standard fds
+invoke console.log
+buffer.equals argument validation
+set returns proper booleans
+boolean default false
+long captures sp
+individual item can have it's own maxAge > cache's
+functionality testing
+whichNodeEmpty
+utf8 buffer to hex
+rel
+.set (deprecated)
+detect utf16 surrogate pairs
+boolean and --x=true
+set the key
+short boolean
+forEach
+hex buffer to ascii
+make files
+keys() and values()
+Test POST XHR2 types
+mixed short bool and capture
+copy() empty buffer with sourceEnd=0
+least recently set with weighed length
+-a -- b
+chmod-pre
+whitespace should be whitespace
+new buffer from array w/ negatives
+modifying buffer created by .slice() modifies original memory
+Test alt protocol
+short capture
+when {} is passed it should return true.
+vmRunInNewContext
+comprehensive
+Test withCredentials param
+buffer.compare argument validation
+clobber-pre
+hex buffer to binary
+sync root perm
+boolean and alias using explicit true
+dump
+assert.deepEqual - 7.4
+usageFail
+console has expected methods
+assert - test assertion message
+buffer.toJSON
+hex of write{Uint,Int}{8,16,32}{LE,BE} with overflow
+util.isDate
+lru recently gotten
+has()
+chmod
+least recently set
+lru update via set
+buffer.compare
+invoke console.trace
+base64: ignore whitespace
+clobber
+Buffer.isEncoding
+test offset returns are correct
+short
+checkCondPass
+new buffer from string
+implicit mode from umask
+slashBreak
+\nreading root without filter using lstat
+-123
+assert - Ensure reflexivity of deepEqual with `arguments` objects
+hex of write{Uint,Int}{8,16,32}{LE,BE}
+usagePass
+setting index value should modify buffer contents
+max
+dotSlashArgs
+Buffer.isBuffer
+new buffer from buffer.toJSON() output
+stringArgs
+Test full url object
+weighed length item too large
+boolean and alias with chainable api
+indexes from an array
+fill (string)
+buffer.write string should get parsed as number
+assert.deepEqual - 7.2
+short captures
+short group next
+disposal function
+assert - Testing the throwing
+no
+defaultSingles
+graceful fs is monkeypatched fs
+extglob ending with statechar
+concat() a varying number of buffers
+buffer.slice sets indexes
+buffer.slice out of range
+open lots of stuff
+-
+lru recently gotten with weighed length
+assert.ifError
+checking main module
+\nreading root with no recursion
+util.isArray
+all entries are iterated over
+get error message
+randomBytes
+dotSlashEmpty
+multiAlias
+god
+base64: strings without padding
+base64: tab characters in base64 - should get stripped
+race
+invoke console.info
+indexes from a string
+util.inspect - test for sparse array
+individual item can have it's own maxAge
+whichNodeArgs
+new buffer from Uint16Array
+new buffer from buffer
+flag boolean default false
+assert.equal
+new buffer from Int16Array
+dotted default
+util._extend
+flag boolean
+assert - se a fn to validate error object
+open an existing file works
+strings
+base64: newline in base64 -- should get stripped
+nested dotted objects
+writeUint8 with a negative number throws
+fill
+buffer.equals
+Buffer.toArrayBuffer
+Test string as parameters
+assert - make sure that validating using constructor really works
+\nreading root without filter
+async root perm
+alias
+assert.deepEqual - 7.3
+handle invalid utf16 code points when encoding to utf8 the way node does
+utf16le to utf16
+.writable writing ArrayBuffer
+short group
+pop the least used item
+\n\nreading root using function filter
+nums
+ascii buffer to hex
+parse args
+util.isBuffer
+checkPass
+checkCondFail
+assert - regressions from node.js testcase
+copy() after slice()
+-n123
+util.isError
+storing negative number should cast to unsigned
+defaultHash
+.get (deprecated)
+already a number
+bare
+utf16le to hex
+basic with weighed length
+do not write partial utf16 code units
+invoke console.timeEnd
+opts.fs
+new buffer from Uint32Array
+handle partial utf16 code points when encoding to utf8 the way node does
+expires
+invoke console.time
+assert.deepEqual - 7.5
+countFail
+checkFail
+sync perm
+Test simple url string
+base64: newline in utf8 -- should not be an issue
+defaultAliases
+del
+new buffer from array with mixed signed input
+long capture eq
+no leaks
+ascii buffer to base64
+modifying parent buffer modifies .slice() buffer\
+opts.fs sync
+boolean and alias with options hash
+parse with modifier functions
+read float
+hex buffer to utf8
+invoke console.dir
+cleanup
+boolean groups
+woo
+long capture sp
+assert.deepEqual - instances
+all stale entries are removed
+readdir reorder
+util.isRegExp
+nodeArgs
+assert - Make sure deepEqual doesn\
+utf8 buffer to base64
+basic
+assert.deepEqual - ES6 primitives
+invoke console.assert
+umask sync modes
+open a non-existing file throws
+stale
+base64 buffer to binary
+boolean default true
+when [] is passed it should return false.
+read files
+when null is passed it should return false.
+return value
+utf8 to utf8
+\nreading root using glob filter
+vmRunInContext
+new buffer from Float32Array
+disposal function on too big of item
+new buffer from Float64Array
+async perm

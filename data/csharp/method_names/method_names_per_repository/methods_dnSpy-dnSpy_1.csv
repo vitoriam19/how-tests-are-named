@@ -1,0 +1,6 @@
+testAsm1.GetType("dnSpy.Debugger.DotNet.Interpreter.Tests.TestClass")
+testRuntime.Convert(v1,
+testType1.GetMethod(methodName)
+testType2.GetMethod(methodName)
+testAsm2.GetType(testType1.FullName)
+testRuntime.Runtime.GetAppDomains().First().GetAssembly("dnSpy.Debugger.DotNet.Interpreter.Tests")

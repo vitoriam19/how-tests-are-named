@@ -1,0 +1,7 @@
+TestSearchAndReplace(t
+TestSimpleEdit(t
+TestMultiAttributesStringToStyle(t
+TestMain(m
+TestSettingsPersistence(t
+TestMultiCursor(t
+TestMouse(t

@@ -1,0 +1,6 @@
+TestCrocSymlink(t
+TestIsLocalIP(t
+TestFindOpenPorts(t
+TestEncryptionChaCha(t
+TestCrocEmptyFolder(t
+TestCleanUp(t

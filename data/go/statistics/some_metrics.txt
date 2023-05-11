@@ -1,0 +1,11 @@
+@@@RESULT: Quantity of prefix: 50426
+
+@@@RESULT: Quantity total of tokens: 247045
+
+@@@RESULT: Method with the most tokens: 21
+
+@@@RESULT: Method with the most characters: 101
+
+@@@RESULT: Average number of tokens: 4.893433693176191
+
+@@@RESULT: Average number of characters: 24.584193324749926

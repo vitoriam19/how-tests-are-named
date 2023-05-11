@@ -1,0 +1,54 @@
+render deep node
+.click() to expand a folder
+Add nodes to folder using API to collapsed node
+tabletree
+Using ajax options for `source`; .click() expands a lazy folder
+Add nodes to folder using API witout expanding
+Custom icons (options.icon)
+.click() to activate a folder (clickFolderMode 3 triggers expand)
+trigger async expand
+Fancytree class
+.click() to activate a node
+Issue 309: appendAjax race condition
+.click() to expand a lazy folder (lazyload returns ajax options)
+Dynatree class
+Expand 1000 node with 10 top level nodes (triggers expand -> render and display)
+tabletree (6 columns): render while expanded
+loadKeyPath (allready loaded)
+loadKeyPath (lazy nodes)
+Load 100 nodes (flat)
+tabletree (6 columns): render collapsed
+Init node status from source
+tabletree (6 columns): render, then expand
+.click() to activate a folder (clickFolderMode triggers expand)
+makeVisible not rendered deep node
+.click() to select a node
+Expand 1000 nodes deep (with 10 top level nodes, triggers expand -> render and display)
+FancytreeNode class methods
+Create dynatree
+tabletree (6 columns): render but don't expand
+Add nodes using API to collapsed node (no rendering)
+Trigger events
+Default options, mode='hide'
+loadKeyPath
+sync load
+Expand 1000 top level nodes with ARIA and checkboxes (triggers expand -> render and display)
+Version info
+issue310: Loading animation never ends using lazy read on empty folder
+Expand 1000 top level nodes (triggers expand -> render and display)
+Create fancytree
+.click() top level nodes (triggers lazy loading)
+tabletree (6 columns): render and expand
+FancytreeNode class
+DynatreeNode class
+add children
+Create and render hidden nodes, but don't make visible (i.e. don't expand)
+Init node with custom data
+Using $.ajax promise for `source`; .click() expands a lazy folder
+Custom icons (node.icon)
+Static members
+Remove children
+apply patch
+tabletree (6 columns): render while expanded with enableUpdate(false)
+Default options (mode='dimm')
+Fancytree class methods

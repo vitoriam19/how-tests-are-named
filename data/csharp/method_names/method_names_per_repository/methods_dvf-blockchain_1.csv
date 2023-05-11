@@ -1,0 +1,8 @@
+test_malformed_nodes(self):
+test_block_creation(self):
+test_return_last_block(self):
+test_block_resets_transactions(self):
+test_hash_is_correct(self):
+test_create_transaction(self):
+test_valid_nodes(self):
+test_idempotency(self):

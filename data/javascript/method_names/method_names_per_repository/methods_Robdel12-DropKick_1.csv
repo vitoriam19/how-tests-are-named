@@ -1,0 +1,257 @@
+reset
+mark=false, no / on pattern
+long boolean
+util.inspect -  exceptions should print the error message, not \
+dotted alias
+least recently set w/ peek
+baz
+flag boolean value
+merge
+works in iOS 5 mobile Safari
+should add nested object in target
+empty strings
+should work on simple array
+reuse through ctor
+drop the old items
+rebase
+sync
+newlines in params
+\nstrict vs loose version numbers
+plain through ctor
+invoke console.warn
+move arguments after the -- into their own `--` array
+dotted default with no alias
+multi
+nodeEmpty
+\ngtr tests
+seeded
+buffering has data in queue, when ends
+array
+date
+root
+short and long
+long opts
+numeric short args
+string and alias
+string
+quux
+long captures eq
+countPass
+invoke console.log
+set returns proper booleans
+\nnegative ltr tests
+boolean default false
+long captures sp
+object override extends options
+whichNodeEmpty
+rel
+exports a function
+boolean and --x=true
+globstar should not have dupe matches
+short boolean
+forEach
+object through ctor
+mark=false, / on pattern
+should work on array properties
+file
+multi-line
+keys() and values()
+mock
+\nnegative gtr tests
+works with a function
+mixed short bool and capture
+beep
+least recently set with weighed length
+-a -- b
+\ncomparators test
+chmod-pre
+whitespace should be whitespace
+working with actual shim
+short capture
+object
+comprehensive
+clobber-pre
+sync root perm
+boolean and alias using explicit true
+\nvalid range test
+dump
+object through ctor override
+graceful fs is not fs
+usageFail
+console has expected methods
+simple defaults
+foo
+no module system
+has()
+mock fs
+lru recently gotten
+util.isDate
+\ninvalid version numbers
+lru update via set
+least recently set
+chmod
+core modules
+invoke console.trace
+should replace object with simple key in target
+clobber
+async foo
+mock package
+short
+\nstrict vs loose ranges
+\ncomparison tests
+checkCondPass
+nocase, with some magic
+implicit mode from umask
+slashBreak
+-123
+mutable
+usagePass
+$NODE_PATH
+max
+add keys in target that do not exist at the root
+returns names which are own properties
+dotSlashArgs
+biz
+nocase, nomagic
+stringArgs
+faulty basedir must produce error in windows
+\nltr tests
+#25: node modules with the same name as node stdlib modules
+object through
+\nmax satisfying
+works in environments with the dontEnum bug (IE < 9)
+weighed length item too large
+\nnegative range tests
+object settings available in transform override
+throws an error for a non-object
+boolean and alias with chainable api
+short captures
+short group next
+pipeable object through ctor
+disposal function
+end only once
+mark=true, / on pattern
+no
+graceful fs is monkeypatched fs
+extglob ending with statechar
+defaultSingles
+replace
+-
+works with an object literal
+lru recently gotten with weighed length
+replace simple key with nested object in target
+util.isArray
+object settings available in transform
+works with an array
+other path
+dotSlashEmpty
+multiAlias
+glob
+invoke console.info
+race
+mark, with **
+util.inspect - test for sparse array
+call custom error callback when opts.onError is given
+whichNodeArgs
+mark, no / on pattern
+flag boolean default false
+buffering
+dotted default
+util._extend
+flag boolean
+compile multiple sass files
+without basedir
+should report files in error
+should generate a valid source map with an empty input source map
+open an existing file works
+strings
+nested dotted objects
+should work on arrays of nested objects
+readdir emfile autoreduce
+handle 0
+plain through
+should leave null files as is
+returns names which are enumerable
+works with an object instance
+directory
+should minify files
+async root perm
+mock package from package
+alias
+simple functions
+undefined
+mug
+short group
+pop the least used item
+incorrect main
+nums
+checkPass
+parse args
+util.isBuffer
+\nequality tests
+filter
+should emit error for stream files
+end before close
+checkCondFail
+-n123
+defaultHash
+util.isError
+merge existing simple keys in target at the roots
+amd
+open emfile autoreduce
+already a number
+should work on array of objects
+bare
+new glob, with cb, and no options
+basic with weighed length
+invoke console.timeEnd
+opts.fs
+stat all the things
+invoke console.time
+pauses
+countFail
+checkFail
+object through with through2.obj
+sync perm
+emit error on sass errors
+is.arguments
+del
+defaultAliases
+long capture eq
+cup
+second argument: iterator
+no leaks
+opts.fs sync
+boolean and alias with options hash
+parse with modifier functions
+setup
+invoke console.dir
+cleanup
+boolean groups
+woo
+long capture sp
+null as argument
+merge nested objects into target
+mock from package
+bar
+readdir reorder
+nodeArgs
+util.isRegExp
+compile a single sass file
+\nrange tests
+basic
+shadowed properties
+flushing through
+pipeable through
+invoke console.assert
+umask sync modes
+stale
+open a non-existing file throws
+\nincrement versions test
+pass file when isNull()
+normalize
+is immutable
+boolean default true
+return value
+disposal function on too big of item
+async perm

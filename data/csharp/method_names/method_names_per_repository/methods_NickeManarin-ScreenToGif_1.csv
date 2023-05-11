@@ -1,0 +1,5 @@
+[ExpectedException(typeof(UploadingException))]
+(hitTest
+CanUploadFile()
+TestMethod1()
+test.ShowDialog();

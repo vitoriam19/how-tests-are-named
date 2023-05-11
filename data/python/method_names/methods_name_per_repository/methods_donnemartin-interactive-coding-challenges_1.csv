@@ -1,0 +1,4 @@
+test_trie_remove_invalid(self):\n",
+test.assertRaises(TypeError,
+test.assertRaises(KeyError,
+test.assertRaises(Exception,

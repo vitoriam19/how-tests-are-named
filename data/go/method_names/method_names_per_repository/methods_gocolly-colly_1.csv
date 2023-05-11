@@ -1,0 +1,9 @@
+TestHeaders(t
+TestCollectorContext(t
+TestRedirectWithDisallowedURLs(t
+TestTabsAndNewlines(t
+TestCollectorDepth(t
+TestUserAgent(t
+TestLonePercent(t
+TestCollectorOnXMLWithHtml(t
+TestCollectorOnXMLWithXML(t

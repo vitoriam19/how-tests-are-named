@@ -1,0 +1,6 @@
+TestDeprecatedUnderlyingConn(t
+TestNetDialConnect(t
+TestDialExtraTokensInRespHeaders(t
+TestIsValidChallengeKey(t
+TestNextProtos(t
+TestNetConn(t

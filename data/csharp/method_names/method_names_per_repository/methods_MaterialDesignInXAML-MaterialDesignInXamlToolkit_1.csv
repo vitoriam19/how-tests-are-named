@@ -1,0 +1,15 @@
+testFixture.testElement.AddAdorner<BottomDashedLineAdorner>(null!));
+testCase.Execute();
+testCaseType.GetCustomAttribute<TestCaseNameAttribute>()?.Name;
+testMethod.GetParameters();
+(inputHitTest
+(hitTest
+Assert.Equal($"Test
+testCase.Click();
+testOverlayButton.LeftClick();
+(IsAncestorTill(hitTest
+testBox.ApplyDefaultStyle();
+testFixture.testElement.AddAdorner(new
+testFixture.testElement.AddAdorner<BottomDashedLineAdorner>(null));
+TestMethod1()
+testOverlayButton.Click();

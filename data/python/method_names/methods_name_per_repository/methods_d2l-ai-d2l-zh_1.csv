@@ -1,0 +1,8 @@
+test_ls.append(log_rmse(net,
+test_ls.append(log_rmse(test_labels,
+test_ds.transform_first(transform_test),
+test_labels.reshape(-1,1)),
+test_items.items()]
+test_imgs.transform_first(test_augs),
+test_iter.dataset.normalize_image(img).unsqueeze(0)
+test_iter._dataset.normalize_image(img)

@@ -1,0 +1,172 @@
+proof with upgrade from existing state
+core - append
+encrypted append and get
+session
+sessions - can create writable sessions from a read-only core
+oplog - reset storage
+basic extension
+core - verify
+mutex - lock after destroy
+userdata - persists across restarts
+mutex - quick destroy with re-entry
+upgrade edgecase when no roots need upgrade
+downloading local range
+proof block and seek that results in tree, no upgrade
+multiple gets to replicated, encrypted block
+treeHash gets the tree hash at a given core length
+session on a from instance, pre-ready
+proof block and seek, no upgrade
+encodings - supports built ins
+clear cache on truncate
+bitfield - random set and gets
+truncate event has truncated-length and fork
+multiplexing with external noise stream
+encrypted seek
+findingPeers + done makes update return false if no peers
+proof with upgrade from existing state + additional
+core using custom sign fn
+basic tree seeks
+preload - sign/storage
+storage options
+preload - storage
+read ahead
+proof block and seek, with upgrade
+replicate discrete range
+oplog - multi append is atomic
+oplog - basic append
+mutex - quick destroy
+contiguous length after fork
+non-sparse replication
+proof block and seek #3, no upgrade
+oplog - custom encoding
+multisig hypercore
+session cache opt-out
+encrypted session before ready core
+createIfMissing
+oplog - log not truncated when header write fails
+core id
+sessions - auto close with all closing
+large linear download
+encrypted replication
+mutex - error propagates
+proof-of-work hypercore
+tree hash
+encrypted session
+core - user data
+replication session
+update with zero length
+proof with upgrade
+destroying a stream and re-replicating works
+close
+bigger download range
+high latency reorg
+lowest common ancestor - bigger gap
+bitfield - set and get
+one inflight request to a peer per block
+mutex - graceful then quick destroy
+encrypted sessions
+oplog - malformed log entry gets overwritten
+core - append and truncate
+clear
+session cache with different encodings
+verify proof #2
+download range if available
+basic replication from fork
+basic replication
+sessions - auto close different order
+download available blocks on non-sparse update
+session cache override
+userdata - can set through setUserData
+request cancellation regression
+async multiplexing
+can disable downloading from a peer
+basic read stream
+bitfield - reload
+multisig hypercore with instance and extension
+lowest common ancestor - long fork
+remote bitfield - findFirst
+replicate to writable cores after clearing
+range download, single block missing
+preload - custom keypair
+oplog - alternating header writes
+clear + replication, gossip
+core - verify parallel upgrades
+seeking while replicating
+oplog - one fully-corrupted header
+snapshots wait for ready
+encrypted session on unencrypted core
+basic write+read stream
+get with { wait: false } returns null if block is not available
+check if a length is upgradeable
+encodings - supports custom batch encoding
+proof only block
+multiplexing multiple times over the same stream
+proof seek with upgrade
+lowest common ancestor - small gap
+basic multiplexing
+defaults for wait
+sessions - custom preload hook on first/later sessions
+session cache inheritance
+session id
+replication session after stream opened
+encrypted core from existing unencrypted core
+nodes
+clear full tree
+get older roots
+verify proof #1
+eager replication of updates per default
+reopen and overwrite
+range download, repeated
+session inherits non-sparse setting
+read stream with start / end
+oplog - concurrent appends throw
+sessions - writable session with custom sign function
+storage layout
+findingPeers makes update wait for first peer
+preload - from another core
+implicit snapshot - gets are snapshotted at call time
+mutex - graceful destroy
+encrypted storage layout
+encrypted session on encrypted core, same key
+eager replication from bigger fork
+download range resolves immediately if no peers
+snapshot locks the state
+sessions - writable session with invalid keypair throws
+proof with upgrade + additional
+range download
+session cache
+download blocks available from when only a partial set is available
+userdata - can set through constructor option
+replicate discrete empty range
+oplog - another hypercore is stored here
+clear + replication
+two extensions
+encrypted session on encrypted core, different keys
+bitfield - want
+sparse replication without gossiping
+invalid signature fails
+force update writable cores
+cache
+encodings - supports custom encoding
+sessions - auto close
+oplog - multi append
+snapshots are consistent
+replication session keeps the core open
+sessions - auto close when using from option
+oplog - header invalid checksum
+basic
+sessions - close with from option
+proof block and seek #2, no upgrade
+contiguous length
+download blocks if available, destroy midway
+download blocks if available
+non-sparse snapshot during partial replication
+sessions - custom valueEncoding on session
+close multiple
+lowest common ancestor - remote is shorter than local
+cache on replicate
+replicating encrypted block returns expected data
+invalid capability fails
+core - update hook is triggered
+lowest common ancestor - simple fork
+non-sparse snapshot during replication

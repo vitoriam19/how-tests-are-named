@@ -1,0 +1,88 @@
+clientSubscription() should throw and log an error if there is no existing api for given request id
+should add a client to the current list
+processApiCall() should notify clients on success
+should remove client from subscription
+registerApi() should throw if the API was already registered
+should reject when file does not exist
+subscribe() should throw and log an error if the request id is invalid
+processApiCall() should call api
+should throw if the API was already registered
+should throw if a client with the same id already exists
+should not render count if none given
+should handle API_DATA with array based data
+should handle WS_DISCONNECTED
+should not pass down widget columns/rows values
+should return the initial state
+removeClient() should remove a registered client from the current list
+should handle API_DATA with string based data
+should support calling apis which return promises
+renders welcome message
+should remove a registered client from the current list
+should log an error if there is no existing client having given id
+clientCount() should return the number of connected clients
+should handle API_SUBSCRIBE
+should throw and log an error if the api method is not a function
+should remove subscription when API_UNSUBSCRIBE is called and there is only one subscription
+should handle API_DATA with object based data
+registerApi() should throw if we pass an invalid API mode
+should handle WS_RETRY
+should handle API_DATA
+subscribe() should throw and log an error if the api method does not exists
+should cache result
+should make the API available
+should throw and log an error if there is no existing api for given request id
+should support calling apis which does not return promises
+registerApi() should make the API available
+processApiCall() should log api call
+processApiCall() should support calling apis which does not return promises
+fetchConfiguration() should dispatch expected actions
+should not add the same client id twice to the subscription client list
+removeClient() should cleanup subscription and remove timer if no clients left
+addClient() should throw if a client with the same id already exists
+clientSubscription() should throw and log an error if the request id is invalid
+subscribe() should not add the same client id twice to the subscription client list
+subscribe() should throw and log an error if the api method is not a function
+should handle API_SUBSCRIPTION
+should notify clients on success
+clientSubscription() should throw and log an error if the api method is not a function
+should only pass extra props to created component
+startDashboardRotation() should not start until there is more than one dashboard
+should cleanup subscription and remove timer if no clients left
+should log api call
+should handle API_DATA with number based data
+should throw if we pass an invalid API mode
+should decrement subscription count when API_UNSUBSCRIBE is called
+should add a custom css class for widget type
+should handle WS_CONNECT
+processApiCall() should not notify clients on error and log error
+should handle FETCH_CONFIGURATION
+should render a component matching given type
+processApiCall() should support calling apis which return promises
+subscribe() should throw and log an error if there is no existing api for given request id
+subscribe() should log an error if there is no existing client having given id
+clientSubscription() should log an error if there is no existing client having given id
+should handle FETCH_CONFIGURATION_SUCCESS
+should throw and log an error if the api method does not exists
+should handle WS_CONNECT_SUCCESS
+processApiCall() should cache result
+sums numbers
+should throw and log an error if the request id is invalid
+renders without crashing
+should handle BUFFER_API_SUBSCRIPTION
+should warn if the client does not exist
+setDashboards() should generate expected action
+should reject when file is not a valid yaml
+clientSubscription() should throw and log an error if the api method does not exists
+fetchConfiguration() should handle http errors
+should remove subscription if no more client left
+should increment subscription count when API_SUBSCRIBE is called multiple times
+addClient() should add a client to the current list
+should warn if the subscription does not exist
+constructor() should fill config defaults
+should return parsed yaml
+clientSubscription() should not add the same client id twice to the subscription client list
+should render given count, label and icon
+should handle API_UNSUBSCRIBE
+should convert position and sizing to percent based values
+should not notify clients on error and log error
+startDashboardRotation() should rotate dashboards at given interval

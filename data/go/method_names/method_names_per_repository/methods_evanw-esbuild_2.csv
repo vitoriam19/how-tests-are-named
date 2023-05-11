@@ -1,0 +1,14 @@
+TestInjectDuplicate(t
+TestPackageJsonExportsErrorInvalidModuleSpecifier(t
+TestInjectNoBundle(t
+TestPackageJsonBrowserIssue2002A(t
+TestWarningDuplicateCase(t
+TestClassSuperThisIssue242NoBundle(t
+TestWarningEqualsNegativeZero(t
+TestTsconfigJsonBaseUrl(t
+TestConstWithLet(t
+TestSplittingHybridCJSAndESMIssue617(t
+TestLowerAsyncArrowSuperSetterES2016(t
+TestTsConfigPathsTypeOnly(t
+TestExportSelfAsNamespaceES6(t
+TestLowerPrivateClassStaticFieldOrder(t

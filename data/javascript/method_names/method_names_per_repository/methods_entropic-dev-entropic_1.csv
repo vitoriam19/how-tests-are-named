@@ -1,0 +1,6 @@
+whoami calls error when not successful
+bad command name dumps help
+when you ask whoami you get whoami
+when you ask for help you get help
+empty argv dumps help
+whoami calls console.log with username when API response is successful

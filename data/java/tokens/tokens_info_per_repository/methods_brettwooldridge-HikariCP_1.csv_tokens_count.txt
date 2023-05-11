@@ -1,0 +1,1 @@
+{'test': 10, 'Jdbc': 3, 'Url': 3, 'Keepalive': 2, 'Multiple': 2, 'Pool': 2, 'Name': 2, 'With': 2, 'Collector': 2, 'get': 2, '2': 1, 'Different': 1, 'Registries': 1, 'Case': 1, '1': 1, 'One': 1, 'Registry': 1, 'Object': 1, 'Short': 1, 'Raw': 1, 'Appender': 1, 'Log': 1, 'Logging': 1}

@@ -1,0 +1,52 @@
+Check insertion of multiple stylesheets
+Basic test - nodeName only
+Security test #2
+Check  - no nodeName
+Check IE support
+trim()
+Basic tests (useLineBreaks = false)
+Basic Test
+Different document context
+Check 'levels' param - nodeName only
+Textarea width/height when value causes overflow
+Test - with only a classRegExp
+isArray()
+Test whether it doesn't convert dom trees that are already a list
+Check X-UA-Compatible meta tag #2
+Basic tests for OL
+Advanced tests
+Basic tests (useLineBreaks = true)
+Check with missing document.execCommand
+Basic test - nodeName + className
+without()
+merge()
+Test - with no nodeName
+Basic Tests
+Check insertion of single stylesheet
+Check X-UA-Compatible meta tag #1
+interpolate()
+Basic tests
+Test copying styles that were set via style element
+Security test #1
+Whether it copies native user agent styles
+Click on nested element works as well
+Check 'levels' param - nodeName + className
+Test copying attributes from one element to another element which is in an iframe
+Advanced test observing within a sandboxed iframe
+Test detaching events
+get()
+Basic tests for UL
+escapeHTML()
+Delegation on the body
+Basic test
+Check charset & doctype
+contains()
+replace()
+Check mobile contentEditable support
+clone()
+HTML5 elements
+Test copying styles from one element to another element which is in an iframe
+Basic Tests with IE=Edge
+Check placeholder support
+Test stopPropagation and scope of event handler
+Basic Tests with IE=7

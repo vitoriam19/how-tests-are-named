@@ -1,0 +1,3 @@
+testurl.Replace("drm_device="
+testurl.Replace("drm_type="
+testurl.Contains("/fmp4/"))

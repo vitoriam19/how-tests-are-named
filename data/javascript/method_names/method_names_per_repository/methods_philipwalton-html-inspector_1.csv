@@ -1,0 +1,5 @@
+can add new extensions
+inspects the HTML starting from the domRoot options
+can add an error to be reported when the inspection is complete
+can add new rules
+traverses the DOM emitting events as it goes

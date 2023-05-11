@@ -1,0 +1,98 @@
+long boolean
+flag boolean value
+rebase
+read 2 byte int
+sync
+newlines in params
+write 3 byte int
+multi
+sequence
+nodeEmpty
+root
+short and long
+read 3 byte int
+long captures eq
+countPass
+constructor
+boolean default false
+long captures sp
+write boolean
+whichNodeEmpty
+write 4 byte int
+rel
+boolean and --x=true
+short boolean
+mixed short bool and capture
+chmod-pre
+short capture
+comprehensive
+clobber-pre
+read sequence
+sync root perm
+boolean and alias using explicit true
+Write OID
+usageFail
+chmod
+long string
+clobber
+checkCondPass
+implicit mode from umask
+subclass
+slashBreak
+usagePass
+dotSlashArgs
+write 1 byte int
+stringArgs
+read byte
+read 1 byte int
+boolean and alias with chainable api
+short captures
+short group next
+no
+defaultSingles
+read 4 byte int
+read string
+dotSlashEmpty
+multiAlias
+race
+whichNodeArgs
+flag boolean default false
+flag boolean
+strings
+resize internal buffer
+nested dotted objects
+write string
+async root perm
+alias
+write 2 byte int
+short group
+nums
+checkPass
+write string array
+checkCondFail
+defaultHash
+class-fn
+load library
+bare
+countFail
+checkFail
+sync perm
+LDAP bind message
+defaultAliases
+nested sequence
+long capture eq
+read boolean true
+boolean and alias with options hash
+write byte
+long capture sp
+boolean groups
+woo
+anonymous LDAPv3 bind
+nodeArgs
+read enumeration
+read boolean false
+umask sync modes
+write buffer
+boolean default true
+return value
+async perm

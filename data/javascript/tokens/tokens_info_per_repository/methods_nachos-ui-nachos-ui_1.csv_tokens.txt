@@ -1,0 +1,1 @@
+['should', 'call', 'on', 'Change', 'callback', 'should', 'render', 'custom', 'footer', 'Content', 'should', 'render', 'correctly', 'should', 'hide', 'indicators', 'should', 'call', 'on', 'Press', 'callback', 'should', 'render', 'disabled']

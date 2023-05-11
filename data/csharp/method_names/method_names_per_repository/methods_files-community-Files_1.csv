@@ -1,0 +1,4 @@
+VerifyNavigationWorks()
+testResult.Select(result
+VerifySettingsAreAccessible()
+SessionGetsInitialized()

@@ -1,0 +1,1 @@
+['T', 'T', 'Mybatis', 'Insert', 'Delete', 'Select', 'A', 'Update']

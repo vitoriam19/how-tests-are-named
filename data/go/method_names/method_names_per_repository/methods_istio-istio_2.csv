@@ -1,0 +1,16 @@
+TestVirtualListeners_TrafficRedirectionEnabled(t
+TestAuthz_WorkloadSelector(t
+TestAccessLoggingCache(t
+TestAdsReconnectRequests(t
+TestGatewayConformance(t
+TestTryAcquireOrRenewLeases(t
+TestRemoteClusters(t
+TestServiceCreatedAfterImported(t
+TestSimpleTlsOrigination(t
+TestReleaseLeaseConfigMaps(t
+TestBuildOpenTelemetryAccessLogConfig(t
+TestJwtRefreshIntervalRecoverFromFail(t
+TestValidateExtensionProviderTracingZipkin(t
+TestServiceImportedAfterCreated(t
+TestShouldWaitForGatewaySecretForFileMountedCerts(t
+TestGetDualStackLocalHost(t

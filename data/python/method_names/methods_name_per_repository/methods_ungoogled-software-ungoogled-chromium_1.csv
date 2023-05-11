@@ -1,0 +1,2 @@
+test("unit_tests")
+test("content_perftests")

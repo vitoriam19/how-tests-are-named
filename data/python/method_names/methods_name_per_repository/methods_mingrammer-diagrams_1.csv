@@ -1,0 +1,12 @@
+test_nodes(self):
+test_external_nodes(self):
+test_validate_curvestyle(self):
+test_cluster(self):
+test_folder_depth(self):
+test_outformat_list(self):
+test_systems(self):
+test_empty_name(self):
+test_edges_with_labels(self):
+test_edges(self):
+tests](https://github.com/mingrammer/diagrams/workflows/Run%20tests/badge.svg?branch=master)
+test_edge_without_constraint(self):

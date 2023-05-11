@@ -1,0 +1,17 @@
+testExporter.ExportToFileResultExtenders.OfType<BenchmarkBaselineDeltaResultExtender>().Count());
+testOutputHelper.WriteLine(currentLine
+testData.Values.Select(v
+test.IsGreater(baseline,
+testOutputHelper.WriteLine(text);
+tests\BenchmarkDotNet.IntegrationTests.Classic\bin\$(configuration)\BenchmarkDotNet.IntegrationTests.Classic.exe
+test.IsGreater(candidate,
+tests'](https://approvaltests.com/)
+tests\BenchmarkDotNet.IntegrationTests.Classic\bin\$(configuration)\BenchmarkDotNet.IntegrationTests.Classic.dll
+testOutputHelper.WriteLine(RemoveInvalidChars(text));
+tests'](http://approvaltests.sourceforge.net/)
+test](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test)),
+test.Split('.');
+testOutputHelper.WriteLine(currentLine);
+testOutputHelper.WriteLine(format,
+testRegExp(re,string){return
+testOutputHelper.WriteLine(string.Empty);

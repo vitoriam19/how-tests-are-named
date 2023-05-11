@@ -1,0 +1,174 @@
+long boolean
+dotted alias
+flag boolean value
+flag boolean true any double hyphen argument is not unknown
+differentiates zeroes
+empty strings
+nonzero numbers
+parse()
+combine()
+rebase
+arguments object
+Default is Safer
+sync
+newlines in params
+primitives
+scalars
+move arguments after the -- into their own `--` array
+dotted default with no alias
+merge()
+Symbol.toStringTag
+Symbols
+multi
+returns false for non-functions
+nodeEmpty
+symbols
+.allocUnsafe / .allocUnsafeSlow are fillable and have correct lengths
+root
+should normalize as NFKC
+short and long
+long opts
+numeric short args
+string and alias
+Invalid calls throw
+long captures eq
+boolean and alias array with options hash
+countPass
+should work for large ranges
+assign()
+boolean default false
+long captures sp
+whichNodeEmpty
+Generic methods/properties are defined and equal
+rel
+boolean and --x=true
+is array
+short boolean
+renders learn react link
+.prototype property of Buffer is inherited
+mixed short bool and capture
+as a function
+-a -- b
+boolean and alias is not unknown
+proto pollution (array)
+chmod-pre
+proto pollution (string)
+whitespace should be whitespace
+Methods return Buffers
+default and alias is not unknown
+flag boolean true (default all --args to boolean)
+short capture
+comprehensive
+clobber-pre
+should handle unassigned code points
+sync root perm
+boolean and alias using explicit true
+usageFail
+flag boolean true only affects double hyphen arguments without equals signs
+should throws when prohibited characters
+Built-in buffer static methods/properties are inherited
+chmod
+clobber
+defineProperties
+short
+checkCondPass
+implicit mode from umask
+slashBreak
+can read full child process tree
+proto pollution
+usagePass
+should replace `Non-ASCII space characters` with space
+All Safer methods are present in Dangerous
+dotSlashArgs
+stringArgs
+tree for live env
+Buffers have appropriate lengths (2)
+boolean default to null
+Constructor is buffer.Buffer
+boolean and alias with chainable api
+returns false for non-generator function with faked toString
+value following -- is not unknown
+short captures
+short group next
+undefs
+no
+defaultSingles
+Constructor throws
+stringify()
+returns true for generator functions
+-
+returns false for non-generator function with faked @@toStringTag
+Built-in Buffer static methods/properties are inherited
+safer.Buffer.from returns results same as Buffer constructor
+dotSlashEmpty
+multiAlias
+should work be case preserved
+race
+.alloc(size, fill) is `fill`-filled
+works with primitives
+whichNodeArgs
+flag boolean default false
+dotted default
+flag boolean
+returns false for non-generator functions
+concise methods
+old-style arguments object
+strings
+nested dotted objects
+stops parsing on the first non-option when stopEarly is set
+should work with liatin letters
+boolean --boool=false
+async root perm
+should work with high code points (> U+FFFF)
+alias
+proto pollution (constructor)
+shimmed
+short -k=v
+short group
+multi short -k=v
+nums
+checkPass
+parse args
+should work
+isBuffer()
+checkCondFail
+Unsafe methods exist only in Dangerous
+defaultHash
+should not containt RandALCat and LCat bidi
+already a number
+objects
+always something
+bare
+opts.fs
+countFail
+checkFail
+sync perm
+boolean using something similar to true
+Level renders total state data
+should remove `mapped to nothing` characters
+defaultAliases
+works with NaN
+long capture eq
+Is not a function
+proto pollution (number)
+opts.fs sync
+string and alias is not unknown
+boolean and alias with options hash
+parse with modifier functions
+Safe methods exist
+long capture sp
+boolean groups
+woo
+RandALCat should be first and last
+nodeArgs
+empty or not
+umask sync modes
+Buffers have appropriate lengths
+is-buffer
+safer.Buffer.from returns consistent results
+boolean --boool=true
+boolean default true
+Safe methods from Dangerous methods are present in Safer
+.alloc(size) is zero-filled and has correct length
+return value
+async perm

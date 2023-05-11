@@ -1,0 +1,1 @@
+['hard', 'model', 'lars', 'size=', 'model', 'lookahead', 'model', 'no', 'model', 'rms', 'model', 'hard', 'swish', 'df', 'sgd', "df['param", 'model', 'rectified', 'df', 'model', 'sgdp', 'mad', 'freeze', 'lookahead', 'mish', 'adam', 'lamb', 'adabelief', 'ada', 'ada', 'model', 'model', 'input', 'hard', 'lookahead', 'model', 'df', 'ad', 'model']

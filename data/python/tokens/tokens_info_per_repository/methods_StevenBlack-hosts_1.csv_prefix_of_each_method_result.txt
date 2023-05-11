@@ -1,0 +1,1 @@
+['match', 'no', 'basic', 'move', 'strip', 'connect', 'move', 'strip', 'with', 'invalid', 'no', 'with']

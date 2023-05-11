@@ -1,0 +1,6 @@
+Insert to DOM
+shown should be false
+defaultID
+must have a function in beforeShow listener
+closed should be false
+defaultValues

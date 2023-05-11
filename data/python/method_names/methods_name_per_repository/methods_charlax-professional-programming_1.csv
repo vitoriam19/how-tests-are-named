@@ -1,0 +1,13 @@
+tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html),
+test_function():
+test_stuff():
+test_find():
+tests](https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/)
+test_return_true_if_toast_is_valid():
+test_valid_toast():
+tests](http://www.martinfowler.com/articles/nonDeterminism.html),
+test_brioche_are_valid_toast():
+tests"](https://istacee.wordpress.com/2013/09/18/kent-beck-i-get-paid-for-code-that-works-not-for-tests/)
+test_function(mock_random):
+tests](#undeterministic-tests)
+testing](#inefficient-query-testing)
