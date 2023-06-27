@@ -1,1 +1,1 @@
-['Sticky', 'K', 'FTo', 'K', 'FTo', 'C', 'Event', 'C']
+['FTo', 'C', 'FTo', 'K', 'K', 'C', 'Event']

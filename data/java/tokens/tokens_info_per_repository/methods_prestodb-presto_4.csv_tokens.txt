@@ -1,1 +1,0 @@
-['test', 'Non', 'Equality', 'Full', 'Join', 'test', 'Insert', 'Partitioned', 'Bucketed', 'Table', 'test', 'Time', 'Zone', 'Id', 'Parameter', 'test', 'Bytes', 'test', 'Json', 'Size']

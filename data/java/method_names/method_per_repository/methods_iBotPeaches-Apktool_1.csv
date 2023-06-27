@@ -1,4 +1,0 @@
-testFiles.size());
-testImplementation("junit:junit:4.10")
-testMaliciousYamlNotLoaded()
-testFiles.get(controlEntry.getKey()));

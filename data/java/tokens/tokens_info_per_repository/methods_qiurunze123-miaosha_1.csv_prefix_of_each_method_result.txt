@@ -1,1 +1,1 @@
-['T', 'T', 'Mybatis', 'Insert', 'Delete', 'Select', 'A', 'Update']
+['Insert', 'Mybatis', 'Select', 'T', 'Delete', 'A', 'T', 'Update']

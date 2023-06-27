@@ -1,0 +1,17 @@
+testMaliciousYamlNotLoaded()
+testFiles.size());
+testFiles.get(controlEntry.getKey()));
+disassembleDexFileToKeepDefaultParameters()
+decodeThreeOctets()
+valuesColorsTest()
+decodeSingleOctet()
+decodeSurrogatePair_when_givesAsThreeOctetsFromTheValidRangeOfUtf8()
+valuesBoolsTest()
+buildAndDecodeTest()
+checkForShortHandSTag()
+singleDexTest()
+netSecConfInManifest()
+decodeTwoOctets()
+netSecConfGeneric()
+decodeSurrogatePair_when_givesAsThreeOctetsFromInvalidRangeOfUtf8()
+multipleDexTest()

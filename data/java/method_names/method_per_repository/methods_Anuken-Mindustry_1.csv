@@ -1,7 +1,0 @@
-tests.add(dynamicTest("01-delta"
-tests.toArray(DynamicTest.class);
-tests.add(dynamicTest("04-delta"
-tests.add(dynamicTest("03-delta"
-testSectorValidity(){
-tests.add(dynamicTest("02-delta"
-testCollision(Bullet

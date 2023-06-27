@@ -1,1 +1,0 @@
-['parses', 'parses', 'parses', 'tested]', 'tests]', 'Regexp', 'Ambiguity', 'tests', 'parses', 'parses', 'parses', 'equal', 'cases', 'Document', 'done', 'throws', 'parses', 'done', 'Implicit', 'tests]', 'parses', 'tests', 'equal', 'tester', 'parses', 'parses', 'Document']

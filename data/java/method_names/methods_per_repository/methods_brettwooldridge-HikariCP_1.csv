@@ -1,0 +1,13 @@
+testJdbcUrl(String
+testMultiplePoolNameWithOneCollectorRegistry()
+testCase1()
+testJdbcUrl(url);
+()
+assertThrows(SQLTransientConnectionException.class,
+testObject.getShortRaw());
+createConfig(postgres);
+testKeepalive2()
+testJdbcUrlLogging()
+testAppender.getLog().contains("SECRET"));
+testKeepalive()
+testMultiplePoolNameWithDifferentCollectorRegistries()
