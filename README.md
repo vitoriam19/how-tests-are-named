@@ -7,7 +7,7 @@ The collection of test methods was carried out taking into account the diff of f
 In the collection process, some peculiarities of each language were taken into account for the construction of regular expressions, as can be seen in a summarized form in the table below:
 
 <p align="center">
-  <img src="./images/how_extract_table.png" alt="Considerations made when extracting method names" width="400">
+  <img src="./images/how_extract_table.png" alt="Considerations made when extracting method names" width="500">
 </p>
 
 With the method names extracted, the next step was to split these names into tokens, which was done using [Spiral](https://github.com/casics/spiral), a Python package that implements several identifier division algorithms.
@@ -26,7 +26,7 @@ Below is a table illustrating some methods collected for each language:
   <img src="./images/methods_example_table.png" alt="Examples of extracted method names" width="500">
 </p>
 
-A detailed explanation of the available data can be found in the [README](/Users/lessa/vit_tcc/poc-cc-ufmg-2023-1/data/README.md) available inside the "data" folder.
+A detailed explanation of the available data can be found in the [README](https://github.com/vitoriam19/how-tests-are-named/blob/master/data/README.md) available inside the "data" folder.
 
 ## Motivation
 
@@ -36,14 +36,14 @@ Thus, this repository aims to make available the data referring to the test meth
 
 ## Some interesting metrics
 
-In addition to the **data** folder containing all the extracted data files, an **analysis** folder was also made available, which contains a [Jupyter Notebook](/Users/lessa/vit_tcc/poc-cc-ufmg-2023-1/analysis/final_graphs.ipynb) with some initial metrics. Please feel free to make a copy of this notebook and add any constructive new analysis to the study topic. 
+In addition to the **data** folder containing all the extracted data files, an **analysis** folder was also made available, which contains a [Jupyter Notebook](https://github.com/vitoriam19/how-tests-are-named/blob/master/analysis/metrics.ipynb) with some initial metrics. Please feel free to make a copy of this notebook and add any constructive new analysis to the study topic. 
 
 Now about the metrics:
 
 - The graph below shows the amount of tokens extracted for each language. 
 
 <p align="center">
-  <img src="./images/tokens_quantity_table.png" alt="Quantity of tokens extracted per language" width="300">
+  <img src="./images/tokens_quantity_table.png" alt="Quantity of tokens extracted per language" width="400">
 </p>
 
 Note that the amount of tokens extracted for Java was substantially greater than the others, while for JavaScript it was substantially smaller, even though all languages were subjected to the same collection criteria. Thus, an interesting step to take is to think of solutions to balance the database, so that we have similar amounts of methods for the 5 languages, and as a consequence, more coherent analyses.
@@ -51,7 +51,7 @@ Note that the amount of tokens extracted for Java was substantially greater than
 - The table below exposes the 5 prefixes that most appeared in the test methods for each language.
 
 <p align="center">
-  <img src="./images/most_used_prefixes_table.png" alt="Top 5 most used prefixes in each language" width="300">
+  <img src="./images/most_used_prefixes_table.png" alt="Top 5 most used prefixes in each language" width="400">
 </p>
 
 Note that the "get" prefix is the only one common to all languages. This metric is interesting because it is able to show us whether the tokens most used by developers vary a lot according to the language. When looking at the prefixes, it is possible to notice a certain similarity in their choice.
@@ -59,7 +59,7 @@ Note that the "get" prefix is the only one common to all languages. This metric 
 - Still in this scenario, an interesting complementary metric concerns the grammatical structure of these tokens. The table below shows the 3 most frequent grammatical structures in method prefixes for each language.
 
 <p align="center">
-  <img src="./images/gramatical_patterns_table.png" alt="The 3 most frequent grammatical patterns in method prefixes for each language" width="350">
+  <img src="./images/gramatical_patterns_table.png" alt="The 3 most frequent grammatical patterns in method prefixes for each language" width="400">
 </p>
 
 Note that for all of them, the Noun appears first. However, because they are prefixes, the majority class was expected to be verbs, since prefixes usually indicate the purpose of that test.
@@ -71,7 +71,7 @@ Note that for all of them, the Noun appears first. However, because they are pre
 The Table below shows the relationship between prefix and the purpose of the method that uses it for some of the most commonly used prefixes in each of the languages:
 
 <p align="center">
-  <img src="./images/methods_behavior_table.png" alt="Methods behavior according to prefix" width="450">
+  <img src="./images/methods_behavior_table.png" alt="Methods behavior according to prefix" width="550">
 </p>
 
 ## A comparative summary between languages
@@ -79,23 +79,23 @@ The Table below shows the relationship between prefix and the purpose of the met
 Below you can find a comparative summary for each language taking into account 4 standards, namely the **length of methods**, the **tokens reuse**, the **grammatical structures and classes**, and the **popular methods**.
 
 <p align="center">
-  <img src="./images/csharp_considerations_table.png" alt="Table of Considerations for the C# Language" width="375">
+  <img src="./images/csharp_considerations_table.png" alt="Table of Considerations for the C# Language" width="450">
 </p>
 
 <p align="center">
-  <img src="./images/go_considerations_table.png" alt="Table of Considerations for the Go Language" width="375">
+  <img src="./images/go_considerations_table.png" alt="Table of Considerations for the Go Language" width="450">
 </p>
 
 <p align="center">
-  <img src="./images/java_considerations_table.png" alt="Table of Considerations for the Java Language" width="375">
+  <img src="./images/java_considerations_table.png" alt="Table of Considerations for the Java Language" width="450">
 </p>
 
 <p align="center">
-  <img src="./images/js_considerations_table.png" alt="Table of Considerations for the Javascript Language" width="375">
+  <img src="./images/js_considerations_table.png" alt="Table of Considerations for the Javascript Language" width="450">
 </p>
 
 <p align="center">
-  <img src="./images/python_considerations_table.png" alt="Table of Considerations for the Python Language" width="375">
+  <img src="./images/python_considerations_table.png" alt="Table of Considerations for the Python Language" width="450">
 </p>
 
 ## Contribution Guidelines
